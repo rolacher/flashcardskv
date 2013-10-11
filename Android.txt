@@ -1,0 +1,4 @@
+title=FlashcardsKv
+author=Roland Achermann
+orientation=portrait
+
